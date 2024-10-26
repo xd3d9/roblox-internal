@@ -18,3 +18,5 @@
 `განკუთვნილია რობლოქსის eadc3c90bb1a4267 ვერსიისთვის`
 
 ექსპლოიტის ვერსია **0.1.3.330**
+
+![image](https://github.com/user-attachments/assets/f006158f-def6-4c27-931c-1e9fccb14bc5)
